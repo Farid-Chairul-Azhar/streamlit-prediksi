@@ -1,8 +1,8 @@
 streamlit==1.32.0
-numpy
-pandas
+numpy==1.23.5
+pandas==1.5.3
 tensorflow==2.12.0
-scikit-learn
-joblib
-matplotlib
+scikit-learn==1.2.2
+joblib==1.2.0
+matplotlib==3.7.1
 wfdb==3.4.1
