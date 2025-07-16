@@ -1,8 +1,8 @@
-streamlit
+streamlit==1.32.0
 numpy
 pandas
-tensorflow
+tensorflow==2.12.0
 scikit-learn
 joblib
 matplotlib
-wfdb
+wfdb==3.4.1
